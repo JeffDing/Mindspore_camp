@@ -1,2 +1,0 @@
-# MindSpore_25Day
-
