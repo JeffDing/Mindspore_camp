@@ -1,1 +1,1 @@
-# MindSpore 25日训练营代码仓
+# MindSpore 训练营代码仓
